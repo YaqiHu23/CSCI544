@@ -2,6 +2,8 @@
 
 Linearizing Transformer with Key-Value Memory
 
+Code: https://github.com/jcyk/memsizer
+
 # DDL1: 9/23/2023 Read & Understand Paper
 
 # DDL2: 10/10/2023 Project Proposal
