@@ -8,3 +8,7 @@ Code: https://github.com/jcyk/memsizer
 
 # DDL2: 10/10/2023 Project Proposal
 overleaf template: https://www.overleaf.com/project/651de07f99e24b3a7dba532c
+
+# DDL3: 10/30/2023 Project Status Report
+
+# DDL4: 11/09/2023 Final Pre
