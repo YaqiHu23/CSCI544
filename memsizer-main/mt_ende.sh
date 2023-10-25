@@ -8,7 +8,7 @@ kv_scale=8.
 path=true_vanilla_memsizer
 mkdir -p models/${path}
 fairseq-train  --user-dir src \
-    ../revatt/wmt16.en-de.scale \
+    ./revatt/wmt16.en-de.scale \
     --save-dir models/${path} \
     --arch memsizer_vaswani_wmt_en_de_big \
     --share-all-embeddings \

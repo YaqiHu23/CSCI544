@@ -3,10 +3,9 @@ MKL_SERVICE_FORCE_INTEL=1
 path=lm
 mkdir -p models/${path}
 fairseq-train  --user-dir src \
-    ../revatt/wikitext-103 \
+    ./revatt/wikitext-103 \
     --task language_modeling \
     --arch memsizer_lm_wiki103 \
-    --max-lr 1 \
     --t-mult 2 \
     --lr-period-updates 270000 \
     --lr-scheduler cosine \

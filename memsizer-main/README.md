@@ -10,7 +10,6 @@ Our code is based on [fairseq](https://github.com/facebookresearch/fairseq). You
 
 We provide the implementation of Memsizer in a plug-in module ([src](./src)). In order to import the module, and make Memsizer available to fairseq, add `--user-dir src` to fairseq command lines. See the following examples.
 
-
 ## Examples
 
 For En-De translation, check [mt_ende.sh](./mt_ende.sh).
