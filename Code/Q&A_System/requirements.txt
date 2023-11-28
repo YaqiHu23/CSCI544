@@ -1,0 +1,6 @@
+fairseq
+torch
+flask
+flask_socketio
+tqdm
+```
